@@ -24,10 +24,6 @@ a{
   text-decoration: none;
 }
 
-a:hover{
-  color: red;
-}
-
 .container {
   width: 700px;
   margin: 0 auto;
@@ -72,6 +68,7 @@ li{
   padding: 10px;
   border-radius: 4px;
 }
+
 .fa{
   font-size: 20px;
 }
